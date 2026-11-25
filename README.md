@@ -1,4 +1,5 @@
 # Docker Challenge — Repositorio plantilla
+Ivan Andres Ruiz - 2460978
 
 Este repositorio contiene una aplicación Flask ya implementada y un evaluador para el taller. Tu tarea es crear `Dockerfile` y `docker-compose.yml`.
 
